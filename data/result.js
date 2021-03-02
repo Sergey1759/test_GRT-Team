@@ -16,7 +16,7 @@ export const mainData = [
           {
             'text': '067000104831',
           },
-        ]
+        ],
         'rank': [
           {
             'text': 1
@@ -38,7 +38,7 @@ export const mainData = [
           {
             'text': '067000109836',
           },
-        ]
+        ],
         'rank': [
           {
             'text': 2
@@ -56,7 +56,7 @@ export const mainData = [
           {
             'text': '067000004278',
           },
-        ]
+        ],
         'rank': [
           {
             'text': 3
@@ -78,7 +78,7 @@ export const mainData = [
           {
             'text': '067000004629',
           },
-        ]
+        ],
         'rank': [
           {
             'text': 4,
@@ -103,7 +103,7 @@ export const mainData = [
           {
             'text': '067000004414',
           },
-        ]
+        ],
         'rank': [
           {
             'text': 5,
@@ -120,7 +120,7 @@ export const mainData = [
           {
             'text': '067000009068',
           },
-        ]
+        ],
         'rank': [
           {
             'text': 6,
@@ -137,7 +137,7 @@ export const mainData = [
           {
             'text': '067000003776',
           },
-        ]
+        ],
         'rank': [
           {
             'text': 7,
