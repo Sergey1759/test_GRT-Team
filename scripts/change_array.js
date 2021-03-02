@@ -33,9 +33,11 @@ function getProductPrice(obj){
 }
 
 function getProductUrl(obj){
-    let productUrl = {};
+    let productUrl = [];
+    let buf_obj = {}
     let url = 'https://www.metro.ca' + obj.productUrl[0].text;
-    productUrl.text = url
+    buf_obj.text = url;
+    productUrl.push(buf_obj);
     return productUrl;
 }
 
